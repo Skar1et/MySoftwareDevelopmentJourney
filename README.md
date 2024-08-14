@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skar1et
-- 👀 I’m interested in python, tableau, and sql... Basically everything data analytics related.
-- 🌱 I’m currently learning statistics and python
-- 💞️ I’m looking to collaborate on an excel project
+- 👀 I’m interested in python, tableau, sql, coding... Basically everything programming related.
+- 🌱 I’m currently learning analytic tools and software develpment
+- 💞️ I’m looking to collaborate on an mini related projects
 - 📫 You can reach me on darkorebecca25@gmail.com
 
 <!---
